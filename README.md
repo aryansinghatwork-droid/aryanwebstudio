@@ -77,6 +77,8 @@ portfolio-website-2/
 ├── MyResume.pdf
 ├── images/
 │   └── aryan22.png
+|     | ____person.png
+|     |____ red-bg.png
 └── README.md
 ```
 
