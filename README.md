@@ -4,7 +4,7 @@ A modern and responsive second portfolio website built to showcase my frontend d
 
 ## 🌐 Live Preview
 
-[View Website](your-live-website-link-here)
+[View Website](https://aryanwebstudio.netlify.app/)
 
 ## 📌 About The Project
 
